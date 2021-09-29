@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EgleLtv
-- 👀 I’m interested in advancing my knowledge and experience in java and javascript
-- 🌱 I’m currently learning java
+- 👀 I’m interested in advancing my knowledge and experience in coding
+- 🌱 I’m currently learning java and python
 - 💞️ I’m looking to collaborate on various beginner-friendly projects
 - 📫 Reach me on GitHub!
 
